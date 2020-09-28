@@ -1,0 +1,2 @@
+System Settings > Hardware > Keyboard > Shortcuts > General
+Run Dialog: Super + R
